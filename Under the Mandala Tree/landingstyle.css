@@ -1,0 +1,76 @@
+body{
+	background: url("wallpaperwarm.jpg");
+	background-attachment: fixed;
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position: center;
+	font-family: Lato;
+	color: white;
+}
+
+html {
+	height: 100%;
+}
+
+#image {
+	padding-left: 40%;
+}
+
+#content {
+	text-align: center;
+	padding-top: 3%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1);					
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 5em;
+}
+
+hr {
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+#logo {
+	width: 100%;
+	height: auto;
+}
+
+.navbar {
+
+}
+
+#aboutblock {
+	border: 5px solid black;
+	border-radius: 15px;
+	background-color: white;
+}
+
+.aboutlinda {
+	color: black;
+}
+
+.logo2 {
+	padding-left: 140px;
+	width: 250px;
+	height: 250px;
+}
+
+.footer1 {
+	border-top: 5px solid white;
+	border-radius: 5px;
+	border-left: 5px solid white;
+	border-right: 5px solid white;
+	font-family: lato;
+	font-size: 24px;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.testimonials1 {
+	border-radius: 5px;
+	border-left: 5px solid white;
+	border-right: 5px solid white;
+	text-decoration-color: gray;
+}
